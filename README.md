@@ -1,1 +1,1 @@
-Code for the assessment of the impacts of mobile bottom-contacting fishing gears on epibenthic communities of the Scotian Shelf and Gulf of Maine
+Code for the assessment of the impacts of mobile bottom-contacting fishing gears on epibenthic communities of the Scotian Shelf and Gulf of Maine. The assessment is based on the work developed within the ICES working Group FBIT (https://github.com/ices-eg/FBIT).
